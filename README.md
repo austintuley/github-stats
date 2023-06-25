@@ -1,3 +1,6 @@
+Go [here](https://github.com/jstrieb/github-stats) for project's original repo.
+The credit goes to jstrieb.
+
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <!--
